@@ -71,4 +71,5 @@ int main()
     cout << "Maximum value that can be put in a knapsack of capacity " << W << " is " << result << endl;
 
     return 0;
+    
 }
